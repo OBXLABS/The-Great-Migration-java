@@ -1,5 +1,6 @@
 /**
  * Graphical object released under touches.
+ 
  */
 public class TouchParticle extends KineticObject { 
   float[][] fVertices;  //vertices for the texture
