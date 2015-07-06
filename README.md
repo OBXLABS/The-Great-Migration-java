@@ -6,7 +6,7 @@ Technical Lead: Bruno Nadeau.  <br/>
 See www.poemm.net and www.nexttext.net for more information. <br/>
 To download the iOS app, visit: https://itunes.apple.com/app/migration/id464900068
 
-Copyright (C) <2015>  <Jason Lewis>
+Copyright (C) 2015  Jason Lewis
   
     This program is free software: you can redistribute it and/or modify
     it under the terms of the BSD 3 clause with added Attribution clause license.
@@ -15,8 +15,9 @@ Copyright (C) <2015>  <Jason Lewis>
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     BSD 3 clause with added Attribution clause License for more details.
-   
-   Installation
+This code is offered as is. We cannot provide technical support for it.
+
+Installation
 ---
 1. Install Processing 1.5.x
 2. Install the libraries in the /extlib folder into Processing's libraries folder.
